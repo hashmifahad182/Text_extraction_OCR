@@ -1,0 +1,19 @@
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Environment
+.env
+venv/
+env/
+
+# VSCode settings
+.vscode/
+
+# Uploads (can be optional)
+static/uploads/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
