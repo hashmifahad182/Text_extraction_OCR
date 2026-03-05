@@ -5,7 +5,7 @@ This is a Flask-based web application that extracts useful product information l
 ---
 
 ## 📂 Project Structure
-
+```
 myproject/
 │
 ├── .vscode/ # VSCode settings (ignored in Git)
@@ -17,7 +17,7 @@ myproject/
 ├── app.py # Main Flask backend
 ├── .gitignore # Git ignore rules
 └── README.md # Project description
-
+```
 ---
 
 ## 🚀 Features
